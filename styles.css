@@ -1,0 +1,57 @@
+
+.watching
+{
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+    margin-top: 5px;
+}
+.people
+{
+    display:flex;
+    text-align: center;
+    padding: 3px;  
+    
+}
+.users
+{
+    flex: 33.3%;
+    padding-left:50px;
+    
+   
+}
+
+.text1
+{
+    color: white;
+    
+}
+.text2
+{
+    color: white;
+   
+}
+.text3
+{
+    color: white;
+}
+.text4
+{
+    color: white;
+}
+.text5
+{
+    color:white
+}
+
+#a6
+{
+    margin-left: 550px;
+    top:60px
+    height:100px;
+    width: 400px;
+    font-size: 50px;
+    background-color: black;
+    color: grey;
+}
+
